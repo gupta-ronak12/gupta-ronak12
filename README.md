@@ -1,8 +1,6 @@
 # About Me:
 <br> 
 
-# About Me:
-
 Hi, I’m Ronak, a final-year B.Tech Computer Science & Engineering student specializing in Data Science.
 
 I’m focused on Machine Learning, NLP, and building practical applications that turn data and ML models into useful solutions.
