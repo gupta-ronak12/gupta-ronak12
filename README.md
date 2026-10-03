@@ -1,13 +1,15 @@
 # About Me:
 <br> 
 
+# About Me:
+
 Hi, I’m Ronak, a final-year B.Tech Computer Science & Engineering student specializing in Data Science.
 
-Aspiring Software Engineer with a Data Science background, focused on building AI-powered software using Machine Learning and modern AI technologies.
+I’m focused on Machine Learning, NLP, and building practical applications that turn data and ML models into useful solutions.
 
-# Currently:
+## Currently:
 
-I’m currently strengthening my DSA, software development, and system design skills, while exploring how AI and ML can be used to build practical and reliable software.
+I’m strengthening my skills in Machine Learning, NLP, Data Structures & Algorithms, backend development, and system design while working on practical data-driven projects.
 
 # Achievements & Leadership:
 
