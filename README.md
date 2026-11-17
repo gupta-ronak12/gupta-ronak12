@@ -1,13 +1,13 @@
 # About Me:
 <br> 
 
-Hi, I’m Ronak, a final-year B.Tech Computer Science & Engineering student specializing in Data Science.
+Hi, I'm Ronak, a final-year B.Tech Computer Science and Engineering student specializing in Data Science.
 
-I’m focused on Machine Learning, NLP, and building practical applications that turn data and ML models into useful solutions.
+I'm an aspiring Software Engineer with a strong interest in backend development and AI-driven applications. I enjoy building scalable software solutions, developing backend systems, and integrating AI/ML capabilities to solve real-world problems
 
 ## Currently:
 
-I’m strengthening my skills in Machine Learning, NLP, Data Structures & Algorithms, backend development, and system design while working on practical data-driven projects.
+I'm strengthening my skills in Python, Data Structures & Algorithms, backend development, REST APIs, databases, and AI/ML integration while building practical projects that combine software engineering with AI.
 
 # Achievements & Leadership:
 
