@@ -15,10 +15,6 @@ I’m strengthening my skills in Machine Learning, NLP, Data Structures & Algori
 - Second Runner-up, Research Conclave 2025: Presented the SIH 2025 project at the CSI & IEEE Student Branch Research Conclave.
 - Coordinator & Anchor, IIC Speech Competition: Coordinated event activities and anchored the competition.
 
-# Fun Fact:
-
-I’m a chai and coffee person, always with less sugar, and a big fan of dark chocolate. I guess I just prefer things less sweet, including my code: simple and bug-free.
-
 # Let’s Talk:
 
 Open to internships, collaborations, interesting projects, or simply a good tech conversation.
